@@ -10,7 +10,7 @@ import java.util.Iterator;
  * A 52-card card list that can be shuffled. Cards can never be removed from a card list.
  * Since the card list can be shuffled, it is mutable.
  *
- * @author Anne Cable
+ * @author Jared Reeves
  * @version September 13, 2010
  */
 public class Deck {
